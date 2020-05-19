@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">BMND</string>
+    <string name="btnConnect">Se connecter</string>
+    <string name="btnDisconnect">Se déconnecter</string>
 </resources>
